@@ -1,0 +1,23 @@
+{
+  "name": "yomimashou",
+  "version": "1.0.0",
+  "description": "**\"Aquí no pedimos fama. Aquí la creamos.\"**",
+  "main": "vite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cain46/yomimashou.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cain46/yomimashou/issues"
+  },
+  "homepage": "https://github.com/Cain46/yomimashou#readme",
+  "dependencies": {
+    "react-router-dom": "^7.6.0"
+  }
+}
