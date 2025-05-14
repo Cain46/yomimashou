@@ -4,6 +4,9 @@
   "description": "**\"Aquí no pedimos fama. Aquí la creamos.\"**",
   "main": "vite.config.js",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +22,8 @@
   "homepage": "https://github.com/Cain46/yomimashou#readme",
   "dependencies": {
     "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.19"
   }
 }

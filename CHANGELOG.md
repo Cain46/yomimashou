@@ -43,3 +43,29 @@
 
 📘 Proyecto creado por **Xuniper🥷**,  
 con asistencia mágica de **Mai 🌙™**.
+
+# 📓 CHANGELOG – YOMIMASHOU!
+
+---
+
+## [v0.1.0] – 2025-05-14
+
+### ✨ Nuevas funcionalidades
+- Se define el enfoque del proyecto: plataforma de publicación para autores independientes.
+- Se estructura la FASE 2 y se completan los ítems:
+  - ✅ Estructura base del proyecto
+  - ✅ Configuración de rutas con React Router
+  - ✅ Primer diseño del Landing
+  - ✅ Integración del componente `CardObra` con efecto flip
+  - ✅ Estilos iniciales en `index.css`
+  - ✅ Primer render exitoso de YOMIMASHOU! en entorno local
+
+### 📷 Hito visual
+> _"Un portal en construcción para autores invisibles...  
+> Pronto se abrirá el primer capítulo de esta historia."_
+
+---
+
+### 🚀 Autor
+Xuniper & Mai – versión ninja creativa 🥷
+
