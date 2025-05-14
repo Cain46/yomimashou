@@ -1,29 +1,23 @@
 {
   "name": "yomimashou",
   "version": "1.0.0",
-  "description": "**\"Aquí no pedimos fama. Aquí la creamos.\"**",
-  "main": "vite.config.js",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Cain46/yomimashou.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Cain46/yomimashou/issues"
-  },
-  "homepage": "https://github.com/Cain46/yomimashou#readme",
   "dependencies": {
-    "react-router-dom": "^7.6.0"
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
   },
   "devDependencies": {
-    "vite": "^5.4.19"
+    "@vitejs/plugin-react": "^4.4.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.4.3",
+    "vite": "^5.2.0"
   }
 }

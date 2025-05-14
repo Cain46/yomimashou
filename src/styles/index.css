@@ -1,5 +1,13 @@
-/* index.css */
-/* Estilos para Flip Card */a
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🌌 Estilo base del proyecto */
+body {
+  @apply bg-gray-900 text-white;
+}
+
+/* 🎯 Clases personalizadas para efecto flip 3D */
 .perspective {
   perspective: 1000px;
 }
@@ -14,4 +22,9 @@
 
 .rotate-y-180 {
   transform: rotateY(180deg);
+}
+
+/* (Opcional) Asegurar transición suave de transformación */
+.transition-transform {
+  transition: transform 0.5s ease-in-out;
 }
